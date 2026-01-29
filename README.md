@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_MAX_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-ln@esm/index.mjs';
+import FLOAT32_MAX_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-ln@v0.1.0-esm/index.mjs';
 ```
 
 #### FLOAT32_MAX_LN
@@ -72,7 +72,7 @@ var bool = ( FLOAT32_MAX_LN === 88.72283935546875 );
 <body>
 <script type="module">
 
-import FLOAT32_MAX_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-ln@esm/index.mjs';
+import FLOAT32_MAX_LN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-ln@v0.1.0-esm/index.mjs';
 
 console.log( FLOAT32_MAX_LN );
 // => 88.72283935546875
